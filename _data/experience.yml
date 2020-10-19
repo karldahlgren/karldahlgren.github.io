@@ -1,0 +1,111 @@
+- layout: left
+  company: PriceRunner
+  link: https://pricerunner.com
+  job_title: Backend Tech Lead
+  dates: |
+   Jun 2018 - Present
+   <br/>
+   Stockholm, Sweden
+  quote: >
+   Act bold, be proud, stay humble and have fun.
+  description: |
+    PriceRunner is a leading shopping comparison site with a mission to become the most loved shopping comparison service in the world! PriceRunner makes shopping easier by finding the best deals for our users. PriceRunner is currently operating in Sweden, Denmark, & UK.
+    Every month PriceRunner helps hundreds of thousands of consumers to find better, cheaper products and save money by comparing prices for a particular product. 
+
+    When I first started at PriceRunner, I started as a backend developer in the team responsible for developing the platform for PriceRunner's merchants. 
+    Within less of a year, I was promoted to backend tech lead for the operation team. The team is today the largest tech team at PriceRunner and are responsible for developing the internal systems that manage every product and all offers in all countries, Sweden, Denmark and UK. 
+    PriceRunner has over five million products and process over 200 million offer updates daily. 
+
+    My responsibilities as a backend tech lead was to develop, design solutions, oversee development within the team and plan new features and solutions together with product owners, stakeholders and other tech leads. 
+    Additionally, I've been responsible for development of common libraries and solutions that improves response times and ease developments. These solutions are used throughout the whole PriceRunner backend platform. 
+    I have also been representing PriceRunner in tech events and public speaking. Most notably, a speaker at the PriceRunner and GigaSpace Tech Event on the topic "How to Process Millions of Requests with Ever Changing Content Scaling Linearly".
+
+    **Sectors:** Retail
+
+    <mark>Amazon S3</mark> <mark>Apache Kafka</mark> <mark>Atlassian Jira</mark> <mark>Consul</mark> <mark>Docker</mark> <mark>GigaSpace XAP</mark> <mark>GitLab</mark> <mark>Grafana</mark> <mark>Hibernate</mark> <mark>Java</mark> <mark>Jetty</mark> <mark>Kibana</mark> <mark>Maven</mark> <mark>Microservice</mark> <mark>MongoDB</mark> <mark>MySQL</mark> <mark>PostgreSQL</mark> <mark>REST</mark> <mark>Spring</mark> <mark>Spring JPA</mark> <mark>Spring Reactive</mark> <mark>Swagger</mark>
+- layout: left
+  company: Datawatch Panopticon Visual Analystics
+  link: https://www.altair.com/panopticon/
+  job_title: Software Architect <br/>and Backend Developer
+  dates: |
+   Apr 2015 - Jun 2018
+   <br/>
+   Stockholm, Sweden
+  quote: >
+   Stream processing and visualization for real-time and time series data.
+  description: |
+    Panopticon provides visual data discovery software that optimizes any data – regardless of its variety, volume, or velocity – delivering next generation analytics to reveal valuable insights for improving business. 
+    Its unique ability to integrate structured, unstructured, and semi-structured sources like reports, PDF files and EDI streams with real-time streaming data into visually rich analytic applications allows users to dynamically discover key factors that impact any operational aspect of their business. 
+    
+    My main responsibility was to implement the next generation for the Panopticon visualization server. This includes designing, implementing and testing the server. 
+    The server was responsible for streaming data from various data sources, such as MySQL, PostgreSQL, Onetick and many more. 
+    Furthermore, the server was also responsible for user management, authentication and authorization. Many authentication solutions were available, such as LDAP, SAML, OAuth2 or custom authentication.
+
+    Throughout my years at Datawatch Panopticon, I was involved in tier 3 technical support and also traveled to visit many of our international customers in countries such as Canada and Netherlands.
+    Additionally, my role required me to travel to Boston and to travel to India to lead training sessions with our consultants.
+
+    **Sectors:** Banking, Financial, Visualization
+
+    <mark>.NET</mark> <mark>AngularJS</mark> <mark>Apache Kafka</mark> <mark>Apache Tomcat</mark> <mark>Atlassian Jira</mark> <mark>Big Data</mark> <mark>C#</mark> <mark>Gradle</mark> <mark>Java</mark> <mark>LDAP</mark> <mark>Mercurial</mark> <mark>OAuth2</mark> <mark>REST</mark> <mark>SAML</mark> <mark>Spring</mark> <mark>SOAP</mark> <mark>Swagger</mark> <mark>WebSocket</mark> <mark>WPF</mark> <mark>WSDL</mark>
+
+- layout: left
+  company: Knowit
+  link: https://www.knowit.se/
+  job_title: IT Consultant and Backend Software Engineer
+  dates: |
+   May 2014 - Apr 2015
+   <br/>
+   Stockholm, Sweden
+   <br/>
+   London, England
+  quote: >
+    Knowit is a consultancy firm that creates unique customer values by offering digital and cross-functional solutions.
+  description: |
+    Knowit is one of the leading consultancy firms in the Nordic region. Knowit are quoted on the Nordic Exchange and have offices in twenty locations in Sweden, five in Norway and in Helsinki, Copenhagen, Tallinn and S:t Petersburg. 
+    Their local presence ensures deep knowledge of our clients, strong commitment and high delivery security. In addition, they use the strength and specialist competence of the entire group, whenever it can be helpful. 
+
+    My project at Knowit was to develop a system for telecom company in Greenland. My main responsibility mainly involved developing
+    an enterprise service bus, ESB. Throughout my time at Knowit, I became a team leader for the team responsible for the development of the ESB. 
+    The project started in Stockholm, but was later relocated to London. I, together with a team of developers, traveled to London on a weekly basis for almost a half a year.
+
+    **Sectors:** Consulting, Telecommunications
+
+    <mark>Java</mark> <mark>JBoss</mark> <mark>Jenkins</mark> <mark>Git</mark> <mark>Maven</mark> <mark>REST</mark> <mark>SOAP</mark> <mark>Spring</mark>
+- layout: left
+  company: Netlight
+  link: https://www.netlight.com/
+  job_title: IT Consultant
+  dates: |
+   May 2013 - May 2014
+   <br/>
+   Stockholm, Sweden
+   <br/>
+   Munich, Germany
+  quote: >
+   The combination of competence, creativity and business sense is what makes Netlight stand out as a service provider, and are also the characteristics of each individual Netlighter.
+  description: |
+    Netlight Consulting is a successful and independent IT-consultant company that offers solutions to complex problems to companies where IT is a critical part of their business concept. High competence combined with creativity and business sense has made us one of the market's sharpest suppliers.
+
+    Netlight Consulting was my first employment after university. I was a short period in the Stockholm office, but was quickly assigned a customer in the banking sector in Munich, Germany.
+    My main assignment was to lead the integration testing between the bank and their international partners in one of the biggest projects that involved mobile payments in France. 
+    My role included integration testing and writing testing tools. It also involved daily communication and collaboration with our international partners. 
+
+    **Sectors:** Banking, Consulting
+
+    <mark>Atlassian Jira</mark> <mark>Java</mark> <mark>Maven</mark> <mark>Mobile Payments</mark> <mark>REST</mark> <mark>Spring</mark>
+- layout: left
+  company: Stockholm University - Department of Computer and System Science
+  link: https://dsv.su.se/
+  job_title: Amanuensis / Teaching assistant
+  dates: |
+   January 2011 - May 2013
+   <br/>
+   Stockholm, Sweden
+  description: |
+    Throughout my master program, I was part-time employed at Stockholm University as amanuensis or teaching assistant.
+    My responsibilities were to teach, grade and conduct lectures in software development mainly in Java and Python, 
+    but also in other programming languages, such as C++ and C#.
+
+    **Sectors:** Education
+
+    <mark>C++</mark> <mark>C#</mark> <mark>Java</mark> <mark>Python</mark>

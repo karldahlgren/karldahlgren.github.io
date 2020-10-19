@@ -1,0 +1,40 @@
+- layout: top-middle
+  name: Castle Mock
+  link: https://castlemock.com
+  github: castlemock/castlemock
+  quote: >
+    Founder and Lead Developer 
+    <div class="center">
+    <a href="https://travis-ci.org/castlemock/castlemock"><img src="https://travis-ci.org/castlemock/castlemock.svg?branch=master"></a>
+    <a href="https://github.com/castlemock/castlemock/releases"><img src="https://img.shields.io/github/release/castlemock/castlemock.svg"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-blue.svg"></a>
+    <img src="https://img.shields.io/badge/platforms-Linux%C2%A0%7C%C2%A0macOS%20%7C%20Windows-blue">
+    <a href="https://hub.docker.com/r/castlemock/castlemock/"><img src="https://img.shields.io/docker/pulls/castlemock/castlemock.svg"></a>
+    </div>
+  description: |
+
+    **Castle Mock** is a web application that provides the functionality to mock out *RESTful APIs* and *SOAP* *web-services*. This functionality allows client-side developers to completely mimic a server side behavior and shape the responses themselves for when writing and conducting integration tests.
+
+    **Castle Mock** can create mocked services based on *WSDL*, *WADL*, *Swagger* and *RAML* definition files. The web-services defined within the files will be mocked automatically by **Castle Mock**. Once the mocks for the *web-services* are created, they can be configured to mock the service or forward the request to the original endpoint. The response from the forwarded requests can be recorded automatically and used to create new mocked responses.
+
+    **Castle Mock** is completely free and open source (*Apache License 2.0*). It is built with Java and the application itself is deployed to an Apache Tomcat server.
+
+    <mark>CSS</mark> <mark>Docker</mark> <mark>GitHub</mark> <mark>Heroku</mark> <mark>HTML</mark> <mark>Java</mark> <mark>JavaScript</mark> <mark>Jetty</mark> <mark>Maven</mark> <mark>MongoDB</mark> <mark>React</mark> <mark>REST</mark> <mark>SOAP</mark> <mark>Spring</mark> <mark>Swagger</mark> <mark>Travis CI</mark> <mark>WADL</mark> <mark>WSDL</mark> 
+
+
+- layout: top-middle
+  name: LicenseDiscovery.io
+  link: https://licensediscovery.io
+  github: karldahlgren/licensediscovery.io
+  quote: >
+    Founder and Lead Developer 
+    <div class="center">
+      <a href="https://licensediscovery.io/"><img src="https://img.shields.io/website?url=https%3A%2F%2Flicensediscovery.io%2F"/></a>
+      <a href="https://observatory.mozilla.org/analyze/licensediscovery.io"><img src="https://img.shields.io/mozilla-observatory/grade/licensediscovery.io?publish"/></a>
+      <a href="https://securityheaders.com/?q=https%3A%2F%2Flicensediscovery.io"><img src="https://img.shields.io/security-headers?color=bright-green&url=https%3A%2F%2Flicensediscovery.io%2F"/></a>
+      <a href="https://licensediscovery.io/"><img src="https://img.shields.io/hsts/preload/licensediscovery.io"/></a>
+    </div>
+  description: |
+    **LicenseDiscovery.io** is a webpage for discovering which license a Java dependency and its transitive dependencies are licensed under. The purpose of the webpage is to mainly help developers to get a better understanding of their dependencies and get a complete picture of what is include when depending on a Java dependency.
+
+    <mark>Antlr</mark> <mark>Amazon S3</mark> <mark>CSS</mark> <mark>Docker</mark> <mark>GitLab</mark> <mark>Heroku</mark> <mark>Hibernate</mark> <mark>Java</mark> <mark>Jetty</mark> <mark>Maven</mark> <mark>MongoDB</mark> <mark>PostgreSQL</mark> <mark>Redis</mark> <mark>REST</mark> <mark>Spring</mark>

@@ -1,0 +1,66 @@
+# Site
+repository: karldahlgren/karldahlgren
+favicon: images/favicon.ico
+
+# Personal info
+name: Karl A. Dahlgren
+title: Senior Backend Software Engineer
+email: karl@dahlgren.info
+website: https://karl.dahlgren.info
+
+# Social links
+twitter_username: karldah
+github_username:  karldahlgren
+# dribbble_username: jekyll
+facebook_username: karldahlg
+# flickr_username: jekyll
+instagram_username: karldahlg
+linkedin_username: karldahlgren
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: |
+  Hi, my name is **Karl**. I'm a passionate software developer from Sweden with a penchant for open-source software. I'm the founder and lead developer for the open-source  REST and SOAP mocking tool **[Castle Mock](https://castlemock.com/)**. 
+  **Castle Mock** is a web application that provides the functionality to mock out RESTful APIs and SOAP web services. Today, **Castle Mock** has almost more than a **1 million** downloads.
+
+  Additionally, I'm also the founder and developer for the license discovery website **[LicenseDiscovery.io](https://www.licensediscovery.io/)**.  **LicenseDiscovery.io** allow the user to search for Java dependencies to discover which licenses these dependencies and the transitive dependencies are licensed under.
+  
+  Today, I work as a **backend tech lead** for the shopping comparison site **[PriceRunner](https://www.pricerunner.com/)**.
+
+  My main expertise: <mark>Backend</mark>, <mark>Java</mark>, <mark>REST</mark>, <mark>Spring</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+
+# More Section
+#more_title: Contact Me
+#more_content: | # this will include new lines to allow paragraphs
+#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#   - Rock climbing
+#   - Gaming
+#   - Knitting
+#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

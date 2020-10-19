@@ -1,0 +1,20 @@
+- layout: left
+  name: KTH Royal Institute of Technology
+  dates: 2011 - 2013
+  qualification: MSc Computer Science
+  quote: >
+    Software Engineering of Distributed Systems
+  description: | # this will include new lines to allow paragraphs
+    KTH in Stockholm is the largest, oldest and most international technical university in Sweden. No less than one-third of Sweden’s technical research and engineering education capacity at university level is provided by KTH. Education and research spans from natural sciences to all the branches of engineering and includes architecture, industrial management and urban planning.
+
+    **Thesis:** [Context-dependent voice commands inspoken dialogue systems for home environments](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A647021&dswid=blank)
+- layout: left
+  name: Stockholm University
+  dates: 2008 - 2011
+  qualification: BSc Computer Science
+  quote: >
+    Computer Science / Game development
+  description: | # this will include new lines to allow paragraphs
+    Since 1878 Stockholm University has been characterised by openness and innovation. A modern university with a multicultural environment, Stockholm University is one of the world’s top 100 higher education institutes.
+    Department of Computer and Systems Sciences (Institutionen för data- och systemvetenskap – DSV) was formed in 1966 and is one of the oldest ICT institutions in Sweden. DSV belongs to the Faculty of 
+    Social Sciences at Stockholm University and carries all types of academic activities: undergraduate, postgraduate and research.
