@@ -17,12 +17,16 @@
     PriceRunner has over five million products and process over 200 million offer updates daily. 
 
     My responsibilities as a backend tech lead was to develop, design solutions, oversee development within the team and plan new features and solutions together with product owners, stakeholders and other tech leads. 
-    Additionally, I've been responsible for development of common libraries and solutions that improves response times and ease developments. These solutions are used throughout the whole PriceRunner backend platform. 
-    I have also been representing PriceRunner in tech events and public speaking. Most notably, a speaker at the PriceRunner and GigaSpace Tech Event on the topic "How to Process Millions of Requests with Ever Changing Content Scaling Linearly".
+    Additionally, I've been responsible for development of common libraries and solutions that improves response times and ease development. These solutions are used throughout the whole PriceRunner backend platform. 
+    I have also been representing PriceRunner in tech events and public speaking. Most notably, a speaker at the PriceRunner and GigaSpace Tech Event on the topic "*How to Process Millions of Requests with Ever Changing Content Scaling Linearly*".
 
     **Sectors:** Retail
 
-    <mark>Amazon S3</mark> <mark>Apache Kafka</mark> <mark>Atlassian Jira</mark> <mark>Consul</mark> <mark>Docker</mark> <mark>GigaSpace XAP</mark> <mark>GitLab</mark> <mark>Grafana</mark> <mark>Hibernate</mark> <mark>Java</mark> <mark>Jetty</mark> <mark>Kibana</mark> <mark>Maven</mark> <mark>Microservice</mark> <mark>MongoDB</mark> <mark>MySQL</mark> <mark>PostgreSQL</mark> <mark>REST</mark> <mark>Spring</mark> <mark>Spring JPA</mark> <mark>Spring Reactive</mark> <mark>Swagger</mark>
+    <mark>Akka</mark> <mark>Amazon S3</mark> <mark>Apache Kafka</mark> <mark>Atlassian Jira</mark> <mark>Consul</mark> <mark>Docker</mark> 
+    <mark>GigaSpace XAP</mark> <mark>GitLab</mark> <mark>Grafana</mark> <mark>Hibernate</mark> <mark>Java</mark> 
+    <mark>Jetty</mark> <mark>Kibana</mark> <mark>Maven</mark> <mark>Microservice</mark> <mark>MongoDB</mark> 
+    <mark>MySQL</mark> <mark>Nomad</mark> <mark>PostgreSQL</mark> <mark>Prometheus</mark> <mark>REST</mark> 
+    <mark>Spring</mark> <mark>Spring JPA</mark> <mark>Spring Reactive</mark> <mark>Swagger</mark>
 - layout: left
   company: Datawatch Panopticon Visual Analystics
   link: https://www.altair.com/panopticon/

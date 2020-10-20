@@ -4,6 +4,8 @@
   github: castlemock/castlemock
   quote: >
     Founder and Lead Developer 
+    <br/>
+    2014 - Present
     <div class="center">
     <a href="https://travis-ci.org/castlemock/castlemock"><img src="https://travis-ci.org/castlemock/castlemock.svg?branch=master"></a>
     <a href="https://github.com/castlemock/castlemock/releases"><img src="https://img.shields.io/github/release/castlemock/castlemock.svg"></a>
@@ -19,7 +21,7 @@
 
     **Castle Mock** is completely free and open source (*Apache License 2.0*). It is built with Java and the application itself is deployed to an Apache Tomcat server.
 
-    <mark>CSS</mark> <mark>Docker</mark> <mark>GitHub</mark> <mark>Heroku</mark> <mark>HTML</mark> <mark>Java</mark> <mark>JavaScript</mark> <mark>Jetty</mark> <mark>Maven</mark> <mark>MongoDB</mark> <mark>React</mark> <mark>REST</mark> <mark>SOAP</mark> <mark>Spring</mark> <mark>Swagger</mark> <mark>Travis CI</mark> <mark>WADL</mark> <mark>WSDL</mark> 
+    <mark>Apache Tomcat</mark> <mark>CSS</mark> <mark>Docker</mark> <mark>GitHub</mark> <mark>Heroku</mark> <mark>HTML</mark> <mark>Java</mark> <mark>JavaScript</mark> <mark>Jetty</mark> <mark>Maven</mark> <mark>MongoDB</mark> <mark>NPM</mark> <mark>React</mark> <mark>REST</mark> <mark>SOAP</mark> <mark>Spring</mark> <mark>Swagger</mark> <mark>Travis CI</mark> <mark>WADL</mark> <mark>WSDL</mark> <mark>Yarn</mark>
 
 
 - layout: top-middle
@@ -28,6 +30,8 @@
   github: karldahlgren/licensediscovery.io
   quote: >
     Founder and Lead Developer 
+    <br/>
+    2019 - Present
     <div class="center">
       <a href="https://licensediscovery.io/"><img src="https://img.shields.io/website?url=https%3A%2F%2Flicensediscovery.io%2F"/></a>
       <a href="https://observatory.mozilla.org/analyze/licensediscovery.io"><img src="https://img.shields.io/mozilla-observatory/grade/licensediscovery.io?publish"/></a>
@@ -36,5 +40,6 @@
     </div>
   description: |
     **LicenseDiscovery.io** is a webpage for discovering which license a Java dependency and its transitive dependencies are licensed under. The purpose of the webpage is to mainly help developers to get a better understanding of their dependencies and get a complete picture of what is include when depending on a Java dependency.
+    **Licensediscovery.io** allows the users to search for Java dependencies by using any of the following syntax: *Maven*, *Gradle*, *SBT*, *Ivy*, *Leiningen*, *Grape*, *Buildr* or *plain*. The results will be presented either in a table, bar chart, donut chart or a network graph.
 
-    <mark>Antlr</mark> <mark>Amazon S3</mark> <mark>CSS</mark> <mark>Docker</mark> <mark>GitLab</mark> <mark>Heroku</mark> <mark>Hibernate</mark> <mark>Java</mark> <mark>Jetty</mark> <mark>Maven</mark> <mark>MongoDB</mark> <mark>PostgreSQL</mark> <mark>Redis</mark> <mark>REST</mark> <mark>Spring</mark>
+    <mark>Antlr</mark> <mark>Amazon S3</mark> <mark>CSS</mark> <mark>Docker</mark> <mark>GitLab</mark> <mark>Heroku</mark> <mark>Hibernate</mark> <mark>HTML</mark> <mark>Java</mark> <mark>JavaScript</mark> <mark>Jetty</mark> <mark>Maven</mark> <mark>MongoDB</mark> <mark>NPM</mark> <mark>PostgreSQL</mark> <mark>React</mark> <mark>Redis</mark> <mark>REST</mark> <mark>Spring</mark> <mark>Spring JPA</mark> <mark>Yarn</mark>
