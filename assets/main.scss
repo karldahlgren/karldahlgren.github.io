@@ -19,5 +19,8 @@
 .profile-img {
 	width: 250px;
 	height: 250px;
-	border-radius: 125px;
+	border-radius: 0px;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
 }
