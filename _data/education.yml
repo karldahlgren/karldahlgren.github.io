@@ -1,7 +1,7 @@
 - layout: left
   name: KTH Royal Institute of Technology
   dates: 2011 - 2013
-  qualification: MSc Computer Science
+  qualification: M.Sc. Computer Science
   quote: >
     Software Engineering of Distributed Systems
   description: | # this will include new lines to allow paragraphs
@@ -11,7 +11,7 @@
 - layout: left
   name: Stockholm University
   dates: 2008 - 2011
-  qualification: BSc Computer Science
+  qualification: B.Sc. Computer Science
   quote: >
     Computer Science / Game development
   description: | # this will include new lines to allow paragraphs
