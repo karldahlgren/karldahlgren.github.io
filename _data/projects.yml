@@ -42,3 +42,25 @@
     **Licensediscovery.io** allows the users to search for Java dependencies by using any of the following syntax: *Maven*, *Gradle*, *SBT*, *Ivy*, *Leiningen*, *Grape*, *Buildr* or *plain*. The results will be presented either in a table, bar chart, donut chart or a network graph.
 
     <mark>Antlr</mark> <mark>Amazon S3</mark> <mark>CSS</mark> <mark>Docker</mark> <mark>GitLab</mark> <mark>Heroku</mark> <mark>Hibernate</mark> <mark>HTML</mark> <mark>Java</mark> <mark>JavaScript</mark> <mark>Jetty</mark> <mark>Maven</mark> <mark>MongoDB</mark> <mark>NPM</mark> <mark>PostgreSQL</mark> <mark>React</mark> <mark>Redis</mark> <mark>REST</mark> <mark>Spring</mark> <mark>Spring JPA</mark> <mark>Yarn</mark>
+
+- layout: top-middle
+  name: Raccoon
+  link: https://github.com/karldahlgren/raccoon
+  github: karldahlgren/raccoon
+  quote: >
+    Founder and Lead Developer 
+    <br/>
+    2020 - Present
+    <div class="center">
+      <a href="https://goreportcard.com/report/github.com/karldahlgren/raccoon"><img src="https://goreportcard.com/badge/github.com/karldahlgren/raccoon"/></a>
+      <a href="https://github.com/karldahlgren/raccoon/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"/></a>
+      <a href="https://github.com/karldahlgren/raccoon/blob/master/go.mod"><img src="https://img.shields.io/github/go-mod/go-version/karldahlgren/raccoon"/></a>
+      <a href="https://godoc.org/github.com/karldahlgren/raccoon"><img src="https://godoc.org/github.com/karldahlgren/raccoon?status.svg"/></a>
+    </div>
+  description: |
+    **Raccoon** is a command line search tool for Apache Kafka written in Go. 
+    The tool enables users to search and grep particular messages in a Kafka topic by providing a search query. 
+    Additionally, the tool also allows the user to tail a Kafka topic and filter messages based on a provided search query.
+    Once finished, all matched Kafka messages could either be presented in the terminal or exported to a CSV file.
+
+    <mark>CLI</mark> <mark>Cobra</mark> <mark>Go</mark> <mark>Kafka</mark>
