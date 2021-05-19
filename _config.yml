@@ -24,7 +24,7 @@ linkedin_username: karldahlgren
 # about_title: About Me
 about_profile_image: images/profile.gif
 about_content: |
-  Hi, my name is **Karl**. I'm a passionate software developer from Sweden with a penchant for open-source software. I'm the founder and lead developer for the open-source  REST and SOAP mocking tool **[Castle Mock](https://castlemock.com/)**. 
+  Hi, my name is **Karl** and I'm a software developer from Sweden. I'm the founder and lead developer for the open-source  REST and SOAP mocking tool **[Castle Mock](https://castlemock.com/)**. 
   **Castle Mock** is a web application that provides the functionality to mock out RESTful APIs and SOAP web services. Today, **Castle Mock** has more than a **1 million** downloads.
 
   Additionally, I'm also the founder and developer for the license discovery website **[LicenseDiscovery.io](https://www.licensediscovery.io/)**.  **LicenseDiscovery.io** allow the user to search for Java dependencies to discover which licenses these dependencies and the transitive dependencies are licensed under.
