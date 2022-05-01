@@ -23,9 +23,9 @@
     **Sectors:** Retail
 
     <mark>Akka</mark> <mark>Amazon S3</mark> <mark>Apache Kafka</mark> <mark>Atlassian Jira</mark> <mark>Consul</mark> <mark>Docker</mark> 
-    <mark>GigaSpace XAP</mark> <mark>GitLab</mark> <mark>Grafana</mark> <mark>Hibernate</mark> <mark>Java</mark> 
+    <mark>GigaSpaces XAP</mark> <mark>GitLab</mark> <mark>Grafana</mark> <mark>Hibernate</mark> <mark>Java</mark> 
     <mark>Jetty</mark> <mark>Kibana</mark> <mark>Maven</mark> <mark>Microservice</mark> <mark>MongoDB</mark> 
-    <mark>MySQL</mark> <mark>Nomad</mark> <mark>PostgreSQL</mark> <mark>Prometheus</mark> <mark>REST</mark> 
+    <mark>MySQL</mark> <mark>Neo4j</mark> <mark>Nomad</mark> <mark>PostgreSQL</mark> <mark>Prometheus</mark> <mark>REST</mark> 
     <mark>Spring</mark> <mark>Spring JPA</mark> <mark>Spring Reactive</mark> <mark>Swagger</mark>
 - layout: left
   company: Datawatch Panopticon Visual Analystics
