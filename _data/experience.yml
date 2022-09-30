@@ -1,9 +1,26 @@
 - layout: left
+  company: Klarna
+  link: https://klarna.com
+  job_title: Engineering Manager
+  dates: |
+   April 2022 - Present
+   <br/>
+   Stockholm, Sweden
+  quote: >
+   Smooother Shopping
+  description: |
+    Klarna is the leading global payments and shopping service, providing smarter and more flexible shopping and purchase experiences to 150 
+    million active consumers across more than 450,000 merchants in 45 countries. Klarna offers direct payments, pay after delivery options and 
+    instalment plans in a smooth one-click purchase experience that lets consumers pay when and how they prefer to.
+
+    **Sectors:** Banking, Financial, Retail
+
+- layout: left
   company: PriceRunner
   link: https://pricerunner.com
   job_title: Backend Tech Lead
   dates: |
-   Jun 2018 - Present
+   Jun 2018 - March 2022
    <br/>
    Stockholm, Sweden
   quote: >
