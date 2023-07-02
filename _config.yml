@@ -3,13 +3,13 @@ repository: karldahlgren/karldahlgren
 favicon: images/favicon.ico
 
 # Personal info
-name: Karl A. Dahlgren
+name: Karl Dahlgren
 title: Senior Software Developer / Engineering Manager
 email: karl@dahlgren.info
 website: https://karl.dahlgren.info
 
 # Social links
-twitter_username: karldah
+# twitter_username: 
 github_username:  karldahlgren
 # dribbble_username: jekyll
 # facebook_username: karldahlg
