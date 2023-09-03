@@ -30,9 +30,9 @@
   quote: >
     Founder and Lead Developer 
     <br/>
-    2019 - Present
+    2019 - 2023
     <div class="center">
-      <img src="https://img.shields.io/badge/website-down"/>
+      <img src="https://img.shields.io/badge/website-down-blue"/>
     </div>
   description: |
     **LicenseDiscovery.io** is a webpage for discovering which license a Java dependency and its transitive dependencies are licensed under. The purpose of the webpage is to mainly help developers to get a better understanding of their dependencies and get a complete picture of what is include when depending on a Java dependency.
