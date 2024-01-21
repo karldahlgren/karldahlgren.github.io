@@ -20,7 +20,7 @@
 
     **Castle Mock** is completely free and open source (*Apache License 2.0*). It is built with Java and the application itself is deployed to an Apache Tomcat server.
 
-    <mark>Apache Tomcat</mark> <mark>CSS</mark> <mark>Docker</mark> <mark>GitHub</mark> <mark>Heroku</mark> <mark>HTML</mark> <mark>Java</mark> <mark>JavaScript</mark> <mark>Jetty</mark> <mark>Maven</mark> <mark>MongoDB</mark> <mark>NPM</mark> <mark>React</mark> <mark>REST</mark> <mark>SOAP</mark> <mark>Spring</mark> <mark>Swagger</mark> <mark>Travis CI</mark> <mark>WADL</mark> <mark>WSDL</mark> <mark>Yarn</mark>
+    <mark>Apache Tomcat</mark> <mark>CSS</mark> <mark>Docker</mark> <mark>GitHub</mark> <mark>Heroku</mark> <mark>HTML</mark> <mark>Java</mark> <mark>JavaScript</mark> <mark>Jetty</mark> <mark>Maven</mark> <mark>NPM</mark> <mark>OpenAPI</mark> <mark>React</mark> <mark>REST</mark> <mark>SOAP</mark> <mark>Spring</mark> <mark>Swagger</mark> <mark>WADL</mark> <mark>WSDL</mark> <mark>Yarn</mark>
 
 
 - layout: top-middle
@@ -33,10 +33,13 @@
     2019 - 2023
     <div class="center">
       <img src="https://img.shields.io/badge/website-down-blue"/>
+      <a href="https://www.youtube.com/watch?v=0pOUYz8Swig"><img src="https://img.shields.io/badge/video-blue"></a>
     </div>
   description: |
     **LicenseDiscovery.io** is a webpage for discovering which license a Java dependency and its transitive dependencies are licensed under. The purpose of the webpage is to mainly help developers to get a better understanding of their dependencies and get a complete picture of what is include when depending on a Java dependency.
     **Licensediscovery.io** allows the users to search for Java dependencies by using any of the following syntax: *Maven*, *Gradle*, *SBT*, *Ivy*, *Leiningen*, *Grape*, *Buildr* or *plain*. The results will be presented either in a table, bar chart, donut chart or a network graph.
+
+    **Licensediscovery.io** is no longer active, but a video of the webpage can be found <a href="https://www.youtube.com/watch?v=0pOUYz8Swig">here</a>.
 
     <mark>Antlr</mark> <mark>Amazon S3</mark> <mark>CSS</mark> <mark>Docker</mark> <mark>GitLab</mark> <mark>Heroku</mark> <mark>Hibernate</mark> <mark>HTML</mark> <mark>Java</mark> <mark>JavaScript</mark> <mark>Jetty</mark> <mark>Maven</mark> <mark>MongoDB</mark> <mark>NPM</mark> <mark>PostgreSQL</mark> <mark>React</mark> <mark>Redis</mark> <mark>REST</mark> <mark>Spring</mark> <mark>Spring JPA</mark> <mark>Yarn</mark>
 
